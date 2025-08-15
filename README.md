@@ -7,7 +7,7 @@
 <li>Basics Login Page</li>
 <li>Create Multiple Pages using react router dom</li>
 
-##[Preview]([https://github.com/username/projectname](https://simple-netflix-clone-woad.vercel.app/))
+## [Visit NetFlix Clone]([https://github.com/username/projectname](https://simple-netflix-clone-woad.vercel.app/))
 
 
 #
