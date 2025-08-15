@@ -7,7 +7,7 @@
 <li>Basics Login Page</li>
 <li>Create Multiple Pages using react router dom</li>
 
-Try the live demo [here]([https://securebid.vercel.app](https://simple-netflix-clone-woad.vercel.app/))
+🌐Live Demo :  [Visit Live](https://simple-netflix-clone-woad.vercel.app/)
 
 
 #
